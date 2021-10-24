@@ -43,7 +43,7 @@
 	 height: 550px;
 }
  .card[data-state="#skill"] {
-	 height: 550px;
+	 height: 500px;
 }
  .card.is-active .card-header {
 	 height: 80px;
@@ -323,7 +323,7 @@
 	 transition: 0.3s;
 }
  .card-skill-wrapper {
-	 margin-top: 30px;
+	 margin-top: 40px;
 }
 
  .skill-html{
