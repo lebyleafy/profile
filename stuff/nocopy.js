@@ -1,4 +1,4 @@
-$('body').keydown(function(e) {
+document.onkeydown = function(e) {
         if(e.which==123){
             e.preventDefault();
         }
